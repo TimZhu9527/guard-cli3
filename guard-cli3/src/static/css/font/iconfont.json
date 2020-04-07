@@ -1,0 +1,23 @@
+{
+  "id": "1729532",
+  "name": "guard",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3050498",
+      "name": "验证码",
+      "font_class": "ecurityCode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4216758",
+      "name": "钥匙",
+      "font_class": "yuechi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}

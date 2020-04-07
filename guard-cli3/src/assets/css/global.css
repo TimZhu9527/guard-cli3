@@ -1,0 +1,9 @@
+.el-breadcrumb {
+  margin: 25px 0 20px 80px;
+  font-size: 20px !important;
+}
+
+.el-table,
+hr {
+  margin: 0px 20px 0px 20px !important;
+}
